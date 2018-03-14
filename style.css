@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-left: 20px;
+    text-align: center;
+}
+col {
+  text-align: center;
+}
+.header {
+    background: #ECECEC;
+    padding: 5px;
+}
